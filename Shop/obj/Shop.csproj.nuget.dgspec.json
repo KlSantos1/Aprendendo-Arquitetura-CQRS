@@ -42,7 +42,7 @@
           "dependencies": {
             "MediatR": {
               "target": "Package",
-              "version": "[10.3.2, )"
+              "version": "[11.0.0, )"
             },
             "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",

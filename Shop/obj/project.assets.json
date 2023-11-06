@@ -594,7 +594,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "MediatR >= 10.3.2",
+      "MediatR >= 11.0.0",
       "MediatR.Extensions.Microsoft.DependencyInjection >= 11.1.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.12",
       "Swashbuckle.AspNetCore >= 6.5.0"
@@ -641,7 +641,7 @@
         "dependencies": {
           "MediatR": {
             "target": "Package",
-            "version": "[10.3.2, )"
+            "version": "[11.0.0, )"
           },
           "MediatR.Extensions.Microsoft.DependencyInjection": {
             "target": "Package",
@@ -678,17 +678,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Shop depends on MediatR (>= 10.3.2) but MediatR 10.3.2 was not found. An approximate best match of MediatR 11.0.0 was resolved.",
-      "libraryId": "MediatR",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    }
-  ]
+  }
 }

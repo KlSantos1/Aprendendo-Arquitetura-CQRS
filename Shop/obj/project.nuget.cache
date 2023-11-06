@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "C9m4T5kzC6lsoFx5XcdtTol64iS9h1mKZGqojiRc7JNO/3K+pZ8F2FPfp6VOQtL2f5anRv+MQb/uVo/8tONLKw==",
+  "dgSpecHash": "5R/Es+ZTdxxQOwBGkmThAZw9/RMOa4FXcupaj80WnA2AZmqzqkyXZCYYeIkDfCIJ0vsBOqouUb+IuoNnXJSOEA==",
   "success": true,
   "projectFilePath": "C:\\Users\\klsantos1\\OneDrive - Stefanini\\Desktop\\Testes\\Arquitetura CQRS\\Shop\\Shop.csproj",
   "expectedPackageFiles": [
@@ -16,16 +16,5 @@
     "C:\\Users\\klsantos1\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
     "C:\\Users\\klsantos1\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Shop depends on MediatR (>= 10.3.2) but MediatR 10.3.2 was not found. An approximate best match of MediatR 11.0.0 was resolved.",
-      "libraryId": "MediatR",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    }
-  ]
+  "logs": []
 }
